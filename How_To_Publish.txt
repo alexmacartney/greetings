@@ -4,7 +4,7 @@ go mod tidy
 
 go test ./...
 
-git commit -m "mymodule: changes for v0.1.0"
+git commit -m 'mymodule: changes for v0.1.0'
 git tag v0.1.0
 
 git push origin v0.1.0
